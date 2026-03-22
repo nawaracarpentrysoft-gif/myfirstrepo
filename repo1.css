@@ -1,9 +1,10 @@
-p{
+p {
     font-weight: bold;
     text-align: center;
     font-size: 30px;
 }
-button{
+
+button {
     margin-left: 50px;
     background-color: blanchedalmond;
 }
